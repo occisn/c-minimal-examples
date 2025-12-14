@@ -1,0 +1,38 @@
+[
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-pedantic",
+   "-std=c2x",
+   "-O3",
+   "-Isrc",
+   "-c",
+   "src/integers.c",
+   "-o",
+   "build/integers.o"
+  ],
+  "file": "src/integers.c"
+ },
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-pedantic",
+   "-std=c2x",
+   "-O3",
+   "-Isrc",
+   "-c",
+   "src/main.c",
+   "-o",
+   "build/main.o"
+  ],
+  "file": "src/main.c"
+ }
+]
