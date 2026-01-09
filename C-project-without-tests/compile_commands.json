@@ -1,6 +1,6 @@
 [
  {
-  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
+  "directory": "c:\\Users\\noccis\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
   "arguments": [
    "gcc",
    "-Wall",
@@ -18,7 +18,7 @@
   "file": "src/integers.c"
  },
  {
-  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
+  "directory": "c:\\Users\\noccis\\Dropbox\\local-repos\\c-minimal-examples\\C-project-without-tests",
   "arguments": [
    "gcc",
    "-Wall",
