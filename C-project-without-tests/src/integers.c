@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include "integers.h"
 
 int gcd__int(int a, int b)
 {
