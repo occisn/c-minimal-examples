@@ -2,7 +2,8 @@
 
 /* Calculate largest prime factor of n (uint64_t)
    (v1 available in occisn/c-utils GitHub repository)*/
-uint64_t largest_prime_factor__uint64(uint64_t n) {
+uint64_t largest_prime_factor__uint64(uint64_t n)
+{
   uint64_t largest = 0;
 
   // Remove all factors of 2
