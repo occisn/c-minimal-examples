@@ -11,9 +11,9 @@
     }                                \
   } while (0)
 
-int times_2(int n) { return 2 * n; }
+static int times_2(int n) { return 2 * n; }
 
-int TEST_times_2(void)
+static int TEST_times_2(void)
 {
   TEST("times_2 / 2 * 0 = 0", times_2(0) == 0);
   TEST("times_2 / 2 * 1 = 2", times_2(1) == 2);
@@ -21,7 +21,7 @@ int TEST_times_2(void)
   return 0;
 }
 
-int all_tests(void)
+static int all_tests(void)
 {
   TEST_times_2();
   return 0;

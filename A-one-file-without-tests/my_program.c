@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int times_2(int n) { return 2 * n; }
+static int times_2(int n) { return 2 * n; }
 
 int main(void)
 {
